@@ -6,9 +6,14 @@ My .vimrc config file.
 2. Place/paste it in ~/.vimrc
 3. The settings should apply the next time vim is launched.
 
-## What it does
-* Indents are smart, length 4 and use spaces
-* Line numbers are displayed by default
+## What it does 
+* Sets indents to be smart, length 4 and use spaces
+* Displays line numbers
+* Sets color scheme to slate
+* Shows current mode at bottom of screen
+* Enables backups in /tmp/
+* Keeps swap files in /tmp/
+* Highlights search matches
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
