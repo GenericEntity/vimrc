@@ -26,3 +26,6 @@ set dir=/tmp/
 " Highlight matching search strings
 set hlsearch
 
+" Keep indentation when adding newline
+set autoindent
+

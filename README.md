@@ -14,6 +14,7 @@ My .vimrc config file.
 * Enables backups in /tmp/
 * Keeps swap files in /tmp/
 * Highlights search matches
+* Keeps indentation level when adding newline
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
