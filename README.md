@@ -8,6 +8,7 @@ My .vimrc config file.
 
 ## What it does
 * Indents are smart, length 4 and use spaces
+* Line numbers are displayed by default
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
